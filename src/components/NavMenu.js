@@ -27,7 +27,6 @@ const NavMenu = () => {
             <li>
                 <a href="">여기저기 키즈월드</a>
                 <ul className='smenu'>
-                    <li><a href="">경기 킨텍스</a></li>
                     <li><a href="">부산 벡스코</a></li>
                     <li><a href="">대구 엑스코</a></li>
                 </ul>

@@ -15,6 +15,9 @@ const Header = () => {
                     <NavMenu />
                 </nav>
                 <div>
+                    {/* <Link to='/'>
+                        <img src={process.env.PUBLIC_URL + "/img/commons/kakao.png"} alt="" />
+                    </Link> */}
                 </div>
             </div>
         </header>

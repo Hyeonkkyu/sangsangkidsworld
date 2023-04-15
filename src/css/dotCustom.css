@@ -1,5 +1,5 @@
 .dotCustom {
-    bottom: -30px;
+    bottom: 15px;
     width: 100%;
     list-style: none;
     text-align: center;
@@ -11,7 +11,7 @@
     position: relative;
     display: inline-block;
     width: 30px;
-    height: 20px;
+    height: 2px;
     padding: 0;
     cursor: pointer;
 }
@@ -20,24 +20,22 @@
     font-size: 0;
     line-height: 0;
     display: block;
-    width: 15px;
-    height: 15px;
-    padding: 5px;
+    width: 25px;
+    height: 2px;
     cursor: pointer;
     color: transparent;
     border: 0;
     outline: 0;
     background: 0 0;
+    background-color: rgba(255, 255, 255, 0.45);
 }
 
 .dotCustom li button:before {
     position: absolute;
     top: 0;
     left: 0;
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
-    border: 1px solid #ff9a1f;
+    width: 25px;
+    height: 2px;
     content: '';
     text-align: center;
     background-color: hsla(0, 0%, 100%, 0.45);

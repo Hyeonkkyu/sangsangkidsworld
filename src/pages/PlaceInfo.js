@@ -6,14 +6,6 @@ const PlaceInfo = () => {
             <h2>키즈월드 행사장 이모저모</h2>
             <div>
                 <div>
-                    <img src={process.env.PUBLIC_URL + "/img/commons/kintex.png"} alt="" />
-                    <div className='hoverBox'>
-                        <h3>킨텍스</h3>
-                        <p>경기 고양시 일산서구 킨텍스로 217-60</p>
-                        <a>자세히 보기</a>
-                    </div>
-                </div>
-                <div>
                     <img src={process.env.PUBLIC_URL + "/img/commons/bexco.png"} alt="" />
                     <div className='hoverBox'>
                         <h3>벡스코</h3>
