@@ -9,8 +9,8 @@ import './css/main.scss';
 const App = () => {
   return (
     <>
+      <FloatingBtn />
       <Header />
-      <FloatingBtn/>
       <Routes>
         <Route path='/' element={<Home />} />
       </Routes>
