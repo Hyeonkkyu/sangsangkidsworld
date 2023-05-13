@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const PlaceInfo = () => {
     return (
@@ -10,7 +11,9 @@ const PlaceInfo = () => {
                     <div className='hoverBox'>
                         <h3>벡스코</h3>
                         <p>부산 해운대구 APEC로 55</p>
-                        <a>자세히 보기</a>
+                        <Link to="/bexco">
+                            자세히 보기
+                        </Link>
                     </div>
                 </div>
                 <div>
@@ -18,7 +21,9 @@ const PlaceInfo = () => {
                     <div className='hoverBox'>
                         <h3>엑스코</h3>
                         <p>대구 북구 엑스코로 10</p>
-                        <a>자세히 보기</a>
+                        <Link to="/exco">
+                            자세히 보기
+                        </Link>
                     </div>
                 </div>
             </div>

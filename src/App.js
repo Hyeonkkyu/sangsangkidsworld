@@ -8,6 +8,7 @@ import FaqContent from './pages/FN_faqListContent';
 import Notice from './pages/FN_noticeList';
 import NoticeContent from './pages/FN_noticeListContent';
 import Bexco from './pages/Bexco';
+import Exco from './pages/Exco';
 import Footer from './components/Footer.js';
 import './css/main.scss';
 
@@ -23,6 +24,7 @@ const App = () => {
         <Route path='/faqContent/:contNum' element={<FaqContent />} />
         <Route path='/noticeContent/:contNum' element={<NoticeContent />} />
         <Route path='/bexco' element={<Bexco />} />
+        <Route path='/exco' element={<Exco />} />
       </Routes>
       <Footer />
     </>

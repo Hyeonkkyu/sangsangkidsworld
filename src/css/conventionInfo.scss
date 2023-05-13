@@ -1,0 +1,37 @@
+.convention {
+    .bexcoBanner {
+        background: url(../../public/img/commons/bexcoBanner.png) no-repeat center;
+    }
+    .excoBanner {
+        background: url(../../public/img/commons/excoBanner.png) no-repeat center;
+    }
+
+    .bannerTitle {
+        height: 150px;
+
+        h2 {
+            text-align: center;
+            line-height: 150px;
+            font-size: 40px;
+            font-weight: 700;
+            color: #fff;
+        }
+    }
+
+    .contentBox {
+        padding: 80px 0;
+
+        h4 {
+            font-size: 30px;
+            line-height: 30px;
+            font-weight: 700;
+            // text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .videoBox {
+            display: flex;
+            justify-content: center;
+        }
+    }
+}

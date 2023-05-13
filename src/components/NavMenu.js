@@ -30,8 +30,13 @@ const NavMenu = () => {
                     <li>
                         <Link to="/bexco">
                             부산 벡스코
-                        </Link></li>
-                    <li><a href="">대구 엑스코</a></li>
+                        </Link>
+                    </li>
+                    <li>
+                        <Link to="/exco">
+                        대구 엑스코
+                        </Link>
+                    </li>
                 </ul>
             </li>
             <li>
