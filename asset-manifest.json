@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sangsangkidsworld/static/css/main.d9cf89b0.css",
+    "main.js": "/sangsangkidsworld/static/js/main.ca462722.js",
+    "static/media/excoBanner.png": "/sangsangkidsworld/static/media/excoBanner.4134aaf4865823be3dee.png",
+    "static/media/bexcoBanner.png": "/sangsangkidsworld/static/media/bexcoBanner.761bcb5ce6136ffa9818.png",
+    "static/media/faqBanner1.png": "/sangsangkidsworld/static/media/faqBanner1.3b9d39fa5f9d843e2bc5.png",
+    "static/media/mainVisual01.jpg": "/sangsangkidsworld/static/media/mainVisual01.64787912c9bf7bbda38d.jpg",
+    "static/media/mainVisual02.jpg": "/sangsangkidsworld/static/media/mainVisual02.16c9189e6b96355bef32.jpg",
+    "static/media/mainVisual03.jpg": "/sangsangkidsworld/static/media/mainVisual03.5dfce1d3f2021603d6c5.jpg",
+    "index.html": "/sangsangkidsworld/index.html",
+    "main.d9cf89b0.css.map": "/sangsangkidsworld/static/css/main.d9cf89b0.css.map",
+    "main.ca462722.js.map": "/sangsangkidsworld/static/js/main.ca462722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9cf89b0.css",
+    "static/js/main.ca462722.js"
+  ]
+}
