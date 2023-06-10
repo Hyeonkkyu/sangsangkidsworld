@@ -1,0 +1,32 @@
+#header {
+    height: 300px;
+
+    h1 {
+        text-align: center;
+        line-height: 230px;
+    }
+
+    nav {
+        height: 70px;
+        border-top: 1px solid #E9E9E9;
+        border-bottom: 1px solid #E9E9E9;
+
+        ul {
+            margin: 0 auto;
+            width: 710px;
+            display: flex;
+            justify-content: space-between;
+
+            li {
+                font-size: 24px;
+                font-weight: 700;
+line-height: 70px;
+            }
+        }
+    }
+}
+
+.mainContainer{
+    width: 1200px;
+    padding: 82px 50px 50px 50px;
+}
